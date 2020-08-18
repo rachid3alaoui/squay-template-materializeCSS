@@ -1,0 +1,42 @@
+.slider .caption p {
+  font-weight: 800;
+  font-size: 30px;
+  color: white !important;
+}
+
+.slider .caption a {
+  border-radius: 10px;
+}
+
+#gallery-section h3 {
+  margin-bottom: 30px;
+}
+
+#form-header {
+  margin-bottom: 3rem;
+  text-align: center;
+  font-weight: 800;
+}
+
+form label {
+  font-size: 20px !important;
+  color: rgb(66, 66, 66) !important;
+}
+
+form input:focus {
+  border-bottom: 1px solid brown !important;
+}
+
+#social-media-icons a {
+  margin: 10px;
+}
+
+#social-media-icons li:hover {
+  color: rgb(92, 31, 31);
+}
+
+@media screen and (max-width: 600px) {
+  #gallery-section img {
+    margin-bottom: 10px;
+  }
+}
